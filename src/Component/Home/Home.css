@@ -1,0 +1,24 @@
+.home-background {
+  background-color: rgba(185, 57, 57, 0.658);
+  height: 450px;
+}
+.home-card-style {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+  padding: 50px;
+}
+
+.header-about-center {
+  display: flex;
+  justify-content: center;
+
+  background-color: rgb(69, 128, 108);
+  padding: 50px;
+}
+
+.header-about {
+  display: flex;
+  justify-content: center;
+}

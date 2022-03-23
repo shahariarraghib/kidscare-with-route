@@ -1,0 +1,19 @@
+.nav-stayle {
+  background-color: rgba(184, 179, 179, 0.959);
+  padding: 20px;
+  border-radius: 100px;
+}
+.link-style {
+  margin-left: 50px;
+  margin: 10px;
+  text-decoration: none;
+}
+.style {
+  color: black;
+  text-decoration: none;
+  padding-left: 10px;
+  font-weight: 600;
+}
+.style:hover {
+  background-color: rgba(88, 99, 105, 0.781);
+}

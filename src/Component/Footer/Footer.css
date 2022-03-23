@@ -1,0 +1,15 @@
+.footer-style {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+.copyRight {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+.footerIcon {
+  margin-left: 100px;
+  margin-top: 200px;
+}
